@@ -990,7 +990,7 @@
 		"uniques": ["Hacker",
 		"+33% Strength for adjacent non-air Units vs Cyber units",
 		"25% Chance for Adjacent units to capture Killed Cyber unit"
-		"Can see invisible [Stealth Support] units",
+		"Can see invisible [Stealth] units",
 		"Invisible to non-adjacent units",
 		"[50]% chance to intercept air attacks",
 		"May capture killed [Land] units <with [30]% chance>",
